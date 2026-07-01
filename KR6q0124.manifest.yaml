@@ -1,0 +1,83 @@
+canonical_identifier: bkk:krp/KR6q0124/v1
+canonical_location: https://kanripo.org/bkk/KR6q0124/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 智覺禪師自行錄
+  identifiers:
+    alt_id:
+    - X63n1232
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1232.xml
+    old_id: X63n1232
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0124_000.yaml, hash: 'sha256:7ba92d52584d7f33577a1db1ef385a5e8e614d0ff274db613e9a4ec5b77c23be'}
+  - {seq: 1, filename: KR6q0124_001.yaml, hash: 'sha256:5352fc2560c6e06bc63da0b55679e9d3293223644aa64838520f9b0a7f7339e2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0124_000.markers.yaml, hash: 'sha256:6ceee1472dc0c585c3f0232d9bfc7d27d9d3fb0973629362ff03730d8965375b'}
+  - {seq: 1, role: markers, filename: assets/KR6q0124_001.markers.yaml, hash: 'sha256:2ba8f3bd231892ddef184334c1adb260714881532967be7a536fdfba79f9c0fd'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0124_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1232-A
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0124_X_000-mulu-2
+    span:
+    - front
+    - 194
+    - 194
+  label: 智覺禪師自行錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0124_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 8785
+  label: 慧日永明寺智覺禪師自行錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0124_X_001-mulu-1
+    span:
+    - body
+    - 8121
+    - 8121
+  label: No. 1232-B 自行錄䟦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0124_X_001-mulu-2
+    span:
+    - body
+    - 8474
+    - 8474
+  label: No. 1232-C
+  type: mulu
+  level: 1
+hash: sha256:93dba5c005d3681780c4128e8b954dfe44410e0c0711b08a05ef0824b5acff79
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

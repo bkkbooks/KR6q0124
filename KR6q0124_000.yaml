@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0124/x/v1/juan/0
+seq: 0
+front:
+  text: 永明壽禪師顯跡五代宋初我世宗憲皇帝嘉其專修淨業普利衆生錫封妙圓正修智覺禪師標為佛門正宗其書如宗鏡録萬善同歸集心賦已入大藏武林黃君松石搜訪散佚又得師山居詩及永明道蹟既梓於維揚而自行録一編為師百八實修尤下學上達之津筏嘗𢹂之京師雲間大司寇張公以見之晚不及奏列藏函為憾公薨任子伯耕請校刊流布以資公冥福讀是編者敬信持行人人如獲師印彌陀塔其亦公之神所默啓夫西原居士蔣恭棐為識其緣起時乾隆十年夏五月朔日
+  hash: sha256:bf6b4395a1c75bfc3f490846e9d6171fffb5cb73fc32ea22d326bfd1893bbc74
+  markers:
+  - {type: 序, offset: 0, content: No. 1232-A, id: KR6q0124_X_000-mulu-1, level: '1'}
+  - {type: 其他, offset: 194, content: 智覺禪師自行錄, id: KR6q0124_X_000-mulu-2, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 智覺禪師自行錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1232.xml
+    old_id: X63n1232
+hash: sha256:7ba92d52584d7f33577a1db1ef385a5e8e614d0ff274db613e9a4ec5b77c23be
